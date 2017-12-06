@@ -181,14 +181,14 @@ div.desc {
 
 /*Contact*/
 
-.descript {
+/*.descript {
   display:grid;
   grid-template-columns: 1fr 1fr 1fr;
   grid-gap:1em;
   grid-auto-rows: minmax(50px, auto);
   justify-items: stretch;
   align-items: stretch;
-}
+} */
 
 div.hello h3 /*on both contact and cv*/ {
    font-family: 'Arial';
